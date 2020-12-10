@@ -460,3 +460,10 @@ iframe {
     opacity: 1;
   }
 }
+
+.box{
+  background: blue;
+  height: 200px;
+  width: 300px;
+  margin top: 20px;
+}
